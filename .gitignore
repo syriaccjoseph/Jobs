@@ -6,3 +6,6 @@ db.sqlite3
 
 # Compiled python
 *.pyc
+
+# IDE related
+.vscode/
